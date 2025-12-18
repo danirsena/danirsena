@@ -1,6 +1,5 @@
 ## Saluton kaj bonvenon! Eu sou Daniel Ramos Sena :)
 
-
 Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especialmente relacionadas à matemática!
 
 
@@ -8,8 +7,6 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danirsena/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/danirsena/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=icloud&logoColor=white)](https://danirsena-portfolio.vercel.app)
-
-
 
 
 ### Linguangens que uso
@@ -21,16 +18,15 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> 
 	<img src="https://img.shields.io/badge/Php-8892BE?style=for-the-badge&logo=php&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="PHP"> 
- 	
 </div>
 
 
 ### Meus principais repósitórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/danirsena/Eventos-Bootcamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=AjudaMath&theme=dark)](https://github.com/danirsena/AjudaMath)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=code4causes&theme=dark)](https://github.com/danirsena/code4causes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=hackathon_unisoma_2024&theme=dark)](https://github.com/danirsena/hackathon_unisoma_2024)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=fnafapi&theme=dark)](https://github.com/danirsena/fnafapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=ajudamath&theme=dark)](https://github.com/danirsena/ajudamath)
 
 
 ### Frequência de linguagens
